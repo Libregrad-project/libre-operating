@@ -12,7 +12,7 @@
 # void kernel_main(void); 
 # EOF
 
-# And then nim c -d:nodejs --link:boot.o core.nim 
+# And then => nim c -d:nodejs --link:boot.o core.nim 
 
 #proc kernel_main() {.importc: "kernel_main", cdecl, header: "<boot.h>".}
 
