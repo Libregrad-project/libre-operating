@@ -10,6 +10,7 @@
 # Example:
 # // boot.h
 # void kernel_main(void); 
+# EOF
 
 # And then nim c -d:nodejs --link:boot.o core.nim 
 
