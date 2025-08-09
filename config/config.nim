@@ -1,6 +1,6 @@
 const
     OS_NAME = "Libre Operating"
-    VERSION = "0.0.1"
+    OS_VERSION = "0.0.1"
     DEBUG_MODE = true
 
 # const 
