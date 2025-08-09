@@ -1,9 +1,0 @@
-{"compile":[
-],
-"link":[
-"boot/boot.o",
-"/home/allexander/Documents/libre-operating/kernel/core/nimcache/core.o",
-"/home/allexander/Documents/libre-operating/kernel/core/nimcache/stdlib_system.o"
-],
-"linkcmd": "gcc   -o /home/allexander/Documents/libre-operating/kernel/core/core  boot/boot.o /home/allexander/Documents/libre-operating/kernel/core/nimcache/core.o /home/allexander/Documents/libre-operating/kernel/core/nimcache/stdlib_system.o    -ldl"
-}
