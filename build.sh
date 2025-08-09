@@ -1,1 +1,0 @@
-nim c -d:nodejs --link:boot/boot.o --passC:"-I./kernel/core" kernel/core/core.nim
