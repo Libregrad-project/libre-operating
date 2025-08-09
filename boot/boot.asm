@@ -1,1 +1,5 @@
-; TODO: Create the test boot file.
+section .text
+global kernel_main
+
+kernel_main:
+    ret
