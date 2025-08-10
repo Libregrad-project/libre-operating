@@ -29,3 +29,11 @@
 #define MAX_IPEERS   50
 // Max outbound peers.
 #define MAX_OPEERS   50
+////////////////////////////////
+// System Default Configuration
+////////////////////////////////
+// Default User Permissions => 0 = ALL.
+#define D_USR_P      0
+// Default User Group => 0 = OPERATOR.
+#define D_USR_G      0
+////////////////////////////////
